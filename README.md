@@ -21,3 +21,4 @@ Then visit `http://localhost:4176`.
 ## Assets
 
 The logo, app icon, and onboarding artwork were copied from the Tick Talk app build.
+The app screenshot lives at `assets/app-screenshot.png`.
