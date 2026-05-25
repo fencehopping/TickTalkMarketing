@@ -62,6 +62,11 @@ a {
   white-space: nowrap;
 }
 
+.brand-logo {
+  width: 52px;
+  height: 52px;
+}
+
 .brand img {
   border-radius: 12px;
 }
@@ -180,10 +185,6 @@ h3 {
 .button.primary {
   color: #071008;
   background: var(--leaf);
-}
-
-.button[aria-disabled="true"] {
-  cursor: default;
 }
 
 .button.secondary {
